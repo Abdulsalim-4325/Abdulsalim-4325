@@ -1,7 +1,7 @@
 <!-- BANNER SECTION -->
 <div align="center">
   <!-- REPLACE THIS URL with your actual banner showing you in a suit. Dimension recommendation: 1500x500px -->
-  <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1500&q=80" alt="Abdul Salim Banner" width="100%" style="border: 2px solid #E50914; border-radius: 15px; box-shadow: 0px 0px 15px rgba(229, 9, 20, 0.3);" />
+  <img src="C:\Users\User\OneDrive\Pictures\Camera Roll\WhatsApp Image 2026-02-27 at 2.21.01 PM.jpeg" alt="Abdul Salim Banner" width="100%" style="border: 2px solid #E50914; border-radius: 15px; box-shadow: 0px 0px 15px rgba(229, 9, 20, 0.3);" />
 </div>
 
 <br/>
@@ -16,10 +16,10 @@
 
 <!-- CONNECT WITH ME -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=E50914" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/abdul-salim-engineer"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=E50914" alt="LinkedIn" /></a>
   <a href="https://github.com/AbdulSalim-4325"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=E50914" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=E50914" alt="Email" /></a>
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=E50914" alt="Instagram" /></a>
+  <a href="mailto:abdulsalim432005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=E50914" alt="Email" /></a>
+  <a href="https://https://www.instagram.com/_absalim__"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=E50914" alt="Instagram" /></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 <h2 align="center" style="color: #E50914;">⚙️ Core Engineering Stack</h2>
 <p align="center">
   <!-- Original colors maintained via Skillicons, set to dark theme -->
-  <img src="https://skillicons.dev/icons?i=python,java,go,fastapi,postgres,redis,docker,linux,bash,git,github,vscode,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,redis,docker,linux,bash,git,github,vscode,postman&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 <!-- LEETCODE & COMMIT ACTIVITY -->
 <p align="center">
   <!-- Replace 'YOUR_LEETCODE_USERNAME' below -->
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&border=E50914&ext=activity" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/Abdul_salim_4325?theme=dark&font=Syne&border=E50914&ext=activity" alt="LeetCode Stats" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulSalim-4325&bg_color=0D0D0D&color=E50914&line=E50914&point=ffffff&hide_border=false&border_radius=10" alt="Activity Graph" width="48%" />
 </p>
 
