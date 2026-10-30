@@ -6,6 +6,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:25080D,100:E50914&height=200&section=header&text=ABDUL%20SALIM&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20SECURITY&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="Abdul Salim Engineering Portfolio Banner"/>
+ <!-- ANIMATED TYPING HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=750&height=50&lines=Distributed+Systems+Architect;Off-Chain+Privacy+%26+PII+Redaction+Researcher;Async+Processing+%26+System+Design;Engineer+With+Intent.+Measure+The+Results." alt="Typing Header" />
+  </a>
 
 <br/>
 
