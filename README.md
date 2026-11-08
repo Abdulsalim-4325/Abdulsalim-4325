@@ -86,7 +86,7 @@ My goal is to build software that doesn't merely work under ideal conditions, bu
 
 <div align="center">
 
-<!-- FEATURED PROJECT: PERSONAL PORTFOLIO -->
+<!-- FEATURED PROJECT: PERSONAL PORTFOLIO WEBSITE -->
 
 <a href="REPLACE_WITH_YOUR_PORTFOLIO_REPOSITORY_URL">
 <img src="REPLACE_WITH_YOUR_PORTFOLIO_SCREENSHOT_URL" width="100%" alt="Abdul Salim Personal Portfolio Website"/>
@@ -110,84 +110,99 @@ A dedicated engineering portfolio showcasing my projects, technical work, and re
 <tr>
 <td width="50%" valign="top">
 
-<a href="REPLACE_WITH_WEBHOOK_REPOSITORY_URL">
-<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=900&q=85" width="100%" alt="Resilient Webhook Dispatcher"/>
+<a href="REPLACE_WITH_THREAT_INTEL_REPOSITORY_URL">
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=900&q=85" width="100%" alt="Threat Intelligence Aggregator"/>
 </a>
 
-### Resilient Webhook Dispatcher
+### Automated Threat Intelligence Aggregator & STIX 2.1 Normalization Engine
 
-Asynchronous webhook delivery with retries, backoff, and failure handling.
+Aggregates threat data and normalizes records into STIX 2.1 format using Python, FastAPI, PostgreSQL, Async SQLAlchemy, Alembic, and Docker Compose.
+
+<a href="REPLACE_WITH_THREAT_INTEL_REPOSITORY_URL">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="REPLACE_WITH_FHIR_REDACTION_REPOSITORY_URL">
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=85" width="100%" alt="Asynchronous FHIR de-identification"/>
+</a>
+
+### Asynchronous FHIR de-identification
+
+Privacy-aware healthcare data processing and empirical latency evaluations of off-chain PII redaction using Microsoft Presidio in distributed FHIR healthcare data frameworks.
+
+<a href="REPLACE_WITH_FHIR_REDACTION_REPOSITORY_URL">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AbdulSalim-4325/VALAR">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=85" width="100%" alt="V.A.L.A.R. Autonomous Agent Core"/>
+</a>
+
+### V.A.L.A.R. Autonomous Agent Core
+
+Personal AI command center and autonomous agent core integrating AWS Bedrock runtime, Model Context Protocol (MCP), and a FastAPI backend (Amazon Developer Hackathon Project).
+
+<a href="https://github.com/AbdulSalim-4325/VALAR">SOURCE CODE ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="REPLACE_WITH_FEATURE_FLAG_REPOSITORY_URL">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=85" width="100%" alt="Distributed Feature Flag Evaluation API"/>
+</a>
+
+### Distributed Feature Flag Evaluation API
+
+High-performance distributed feature flag evaluation platform designed for low-latency configuration rollouts and dynamic rule management.
+
+<a href="REPLACE_WITH_FEATURE_FLAG_REPOSITORY_URL">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="REPLACE_WITH_WEBHOOK_REPOSITORY_URL">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=85" width="100%" alt="Resilient Webhook Engine"/>
+</a>
+
+### Resilient Webhook Engine
+
+Resilient Webhook Delivery & Event Dispatch Engine incorporating idempotency keys, HMAC-SHA256 signature verification, SSRF protection, and exponential backoff retries.
 
 <a href="REPLACE_WITH_WEBHOOK_REPOSITORY_URL">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="REPLACE_WITH_CHAOS_PROXY_REPOSITORY_URL">
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=85" width="100%" alt="Chaos Engineering Proxy"/>
+<a href="REPLACE_WITH_B2B_ANALYTICS_REPOSITORY_URL">
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=85" width="100%" alt="B2B Feedback Analytics API"/>
 </a>
 
-### Chaos Engineering Proxy
+### B2B Feedback Analytics API
 
-Fault injection for testing service resilience under simulated failures.
+B2B Feedback Analytics API featuring FastAPI, asynchronous database sessions, Redis caching, and Celery background workers.
 
-<a href="REPLACE_WITH_CHAOS_PROXY_REPOSITORY_URL">VIEW PROJECT ↗</a>
+<a href="REPLACE_WITH_B2B_ANALYTICS_REPOSITORY_URL">VIEW PROJECT ↗</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2" align="center" style="margin: 0 auto;">
 
-<a href="REPLACE_WITH_FHIR_REPOSITORY_URL">
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=85" width="100%" alt="FHIR MedData Redaction"/>
+<a href="REPLACE_WITH_FHIR_RESEARCH_PAPER_URL">
+<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=85" width="100%" alt="FHIR PII Redaction Architecture Plan"/>
 </a>
 
-### FHIR MedData Redaction
+### FHIR PII Redaction Architecture Plan (Research Paper)
 
-Privacy-aware healthcare data processing and FHIR resource redaction.
+Research manuscript exploring empirical latency evaluations of off-chain PII redaction using Microsoft Presidio in distributed FHIR healthcare frameworks for IEEE submission.
 
-<a href="REPLACE_WITH_FHIR_REPOSITORY_URL">VIEW PROJECT ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/AbdulSalim-4325/Backend-Engineering-Concepts">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=85" width="100%" alt="Backend Engineering Concepts"/>
-</a>
-
-### Backend Engineering Lab
-
-Practical backend concepts, implementation experiments, and engineering notes.
-
-<a href="https://github.com/AbdulSalim-4325/Backend-Engineering-Concepts">VIEW REPOSITORY ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/AbdulSalim-4325/Java-DSA-Solutions">
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=85" width="100%" alt="Java DSA Solutions"/>
-</a>
-
-### Java DSA Laboratory
-
-Java solutions covering algorithms, data structures, and complexity analysis.
-
-<a href="https://github.com/AbdulSalim-4325/Java-DSA-Solutions">VIEW REPOSITORY ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="REPLACE_WITH_YOUR_NEXT_PROJECT_REPOSITORY_URL">
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=85" width="100%" alt="Next Engineering Project"/>
-</a>
-
-### Next Engineering Project
-
-A space for the next completed and documented engineering project.
-
-<a href="REPLACE_WITH_YOUR_NEXT_PROJECT_REPOSITORY_URL">COMING SOON ↗</a>
+<a href="REPLACE_WITH_FHIR_RESEARCH_PAPER_URL">READ MANUSCRIPT ↗</a>
 
 </td>
 </tr>
