@@ -139,7 +139,7 @@ Privacy-aware healthcare data processing and empirical latency evaluations of of
 <td width="50%" valign="top">
 
 <a href="https://github.com/AbdulSalim-4325/VALAR">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=85" width="100%" alt="V.A.L.A.R. Autonomous Agent Core"/>
+<img src="Screenshot 2026-10-23 211732.png" width="100%" alt="V.A.L.A.R. Autonomous Agent Core"/>
 </a>
 
 ### V.A.L.A.R. Autonomous Agent Core
